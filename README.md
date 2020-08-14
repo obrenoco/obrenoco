@@ -11,7 +11,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://gist.githubusercontent.com/obrenoco/e0c383130c9cfbb8b2d98e1adf472348/raw/74445e8ce219e8fe5f6c19c87c67b0fd9c23e7ec/aboutmee.gif" />
   
 **Talking about Personal Stuffs:**
 
