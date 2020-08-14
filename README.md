@@ -1,5 +1,5 @@
 <p align="left">
-   <img src="blob:https://web.whatsapp.com/b0a712f0-d79a-424f-ac9b-b996421f360b" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
+   <img src="https://imgur.com/75PpwNh" alt="Brenoco" border="0" width="100">
 </p>
 
 🖖🏼 &nbsp;	Hi! I'm a Front End Engineer and student at [Rocketseat](https://rocketseat.com.br/)
