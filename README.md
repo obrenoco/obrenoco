@@ -1,4 +1,5 @@
-### Hey 👋🏽, I'm [Breno!](https://www.linkedin.com/in/brenoromeiro/) a Front End Engineer and student at [Rocketseat](https://rocketseat.com.br/)
+### Hey 👋🏽, I'm [Breno!](https://www.linkedin.com/in/brenoromeiro/) 
+#### a Front End Engineer and student at [Rocketseat](https://rocketseat.com.br/)
 
 <br/>
 
@@ -12,14 +13,6 @@
 <br />
 
 <img align="right" alt="GIF" src="https://gist.githubusercontent.com/obrenoco/e0c383130c9cfbb8b2d98e1adf472348/raw/74445e8ce219e8fe5f6c19c87c67b0fd9c23e7ec/aboutmee.gif" />
-  
-**Talking about Personal Stuffs:**
-
-### ✨&nbsp; Seeking knowledge all the time  
-My learning is based on creating projects and contributing to the open source community 
-
-### 💡&nbsp; Driven by shipping products that help people  
-My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.  
 
 ### 🔭&nbsp; Goals for 2020
 - Improve my [ReactNative](https://reactnative.dev/docs/getting-started) skills
@@ -35,13 +28,6 @@ My passion for programming is related to create incredible things and help peopl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
 ### ☕️&nbsp; Wanna chat? 
 📫 How to reach me: bsromeiro@gmail.com;
 👉🏼&nbsp; @ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/) about any of the following 
-- Tech stuff 
-- Vegan
-- Art
-- Science
-
-
