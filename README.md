@@ -1,5 +1,5 @@
 <p align="left">
-   <img src="https://imgur.com/75PpwNh" alt="Brenoco" border="0" width="100">
+   <img src="https://i.imgur.com/75PpwNh.jpg" alt="Brenoco" border="0" width="100">
 </p>
 
 🖖🏼 &nbsp;	Hi! I'm a Front End Engineer and student at [Rocketseat](https://rocketseat.com.br/)
