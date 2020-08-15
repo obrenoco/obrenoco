@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Breno!](https://www.linkedin.com/in/brenoromeiro/) 
-#### a Front-End Developer and student at [Rocketseat](https://rocketseat.com.br/)
+#### a Front-End Developer | ReactJS - ReactNative
 
 <br/>
 
