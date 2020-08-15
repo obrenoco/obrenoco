@@ -17,6 +17,7 @@
 ### 🔭&nbsp; Goals for 2020
 - Improve my [ReactNative](https://reactnative.dev/docs/getting-started) skills
 - Finish Fullstack Bootcamp at [Rocketseat](https://rocketseat.com.br/)
+- Work on some cool projects
 
 **Languages and Tools:**  
 
