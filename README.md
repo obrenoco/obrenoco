@@ -31,4 +31,5 @@
 
 ### ☕️&nbsp; Wanna chat? 
 📫 How to reach me: bsromeiro@gmail.com
-👉🏼 @ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/) about any of the following 
+<br/>
+@ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/) about any of the following 
