@@ -30,5 +30,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### ☕️&nbsp; Wanna chat? 
-📫 How to reach me: bsromeiro@gmail.com;
-👉🏼&nbsp; @ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/) about any of the following 
+📫 How to reach me: bsromeiro@gmail.com
+👉🏼 @ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/) about any of the following 
