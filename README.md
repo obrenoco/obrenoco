@@ -3,12 +3,15 @@
 
 <br/>
 
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Brenoco's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/brenoromeiro/">
   <img align="left" alt="Brenoco's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<a href="bsromeiro@gmail.com">
+  <img align="left" alt="Brenoco's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 <br />
 
@@ -32,4 +35,4 @@
 ### ☕️&nbsp; Wanna chat? 
 📫 How to reach me: bsromeiro@gmail.com
 <br/>
-@ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/) about any of the following 
+@ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/)
