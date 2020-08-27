@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://gist.githubusercontent.com/obrenoco/e0c383130c9cfbb8b2d98e1adf472348/raw/74445e8ce219e8fe5f6c19c87c67b0fd9c23e7ec/aboutmee.gif" />
 
 ### 🔭&nbsp; Goals for 2020
-- Improve my [ReactNative](https://reactnative.dev/docs/getting-started) skills
+- Improve my [React](https://reactnative.dev/docs/getting-started) skills
 - Finish Fullstack Bootcamp at [Rocketseat](https://rocketseat.com.br/)
 - Work on some cool projects
 
