@@ -1,38 +1,123 @@
-### Hey 👋🏽, I'm [Breno!](https://www.linkedin.com/in/brenoromeiro/) 
-#### a Front-End Developer | ReactJS - ReactNative
+<p align="center">
+  <a href="#">
+    <img align="center" width="280" src="https://i.imgur.com/VzLDI75.jpg" />
+  </a>
+  <a href="#">
+    <img align="center" width="350" src="https://media.giphy.com/media/d7IKIDx2UwRvlfZOOM/giphy.gif" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/obrenoco/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrenoco&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/obrenoco/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=obrenoco&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Abstract
+
+- 👨‍💻 I'm currently looking for a position as **Front-End Developer**.
+- 🌱 Learning more about and studying: **React, React Native and JavaScript**.
+- 💙 Interests: arts 🎨, nature 🌱.
+
+### Languages and Tools
 
 <br/>
 
+<p align="left">
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+      >
+      <img
+        src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+        alt="javascript"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
 
-<a href="https://www.linkedin.com/in/brenoromeiro/">
-  <img align="left" alt="Brenoco's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://redux.js.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<a href="bsromeiro@gmail.com">
-  <img align="left" alt="Brenoco's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  <a href="https://jestjs.io" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.postgresql.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+      <img
+        src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+    </a>
+</p>
 
+### Find me around the web 🌎:
 
-<br />
-
-<img align="right" alt="GIF" src="https://gist.githubusercontent.com/obrenoco/e0c383130c9cfbb8b2d98e1adf472348/raw/74445e8ce219e8fe5f6c19c87c67b0fd9c23e7ec/aboutmee.gif" />
-
-### 🔭&nbsp; Goals for 2020
-- Improve my [React](https://reactnative.dev/docs/getting-started) skills
-- Finish Fullstack Bootcamp at [Rocketseat](https://rocketseat.com.br/)
-- Work on some cool projects
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-### ☕️&nbsp; Wanna chat? 
-📫 How to reach me: bsromeiro@gmail.com
-<br/>
-@ me on [Linkedin](https://www.linkedin.com/in/brenoromeiro/)
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/brenoromeiro/">LinkedIn</a>.
+- 🔭 Following me on <a href="https://medium.com/@obrenoco">Medium</a>.
+- 📫 Reach me at <a href="bsromeiro@gmail.com">bsromeiro@gmail.com</a>
