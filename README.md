@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280" src="https://i.imgur.com/VzLDI75.jpg" />
+    <img align="center" width="380" src="https://i.imgur.com/VzLDI75.jpg" />
   </a>
   <a href="#">
     <img align="center" width="350" src="https://media.giphy.com/media/d7IKIDx2UwRvlfZOOM/giphy.gif" />
@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/obrenoco/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrenoco&layout=compact"
     />
   </a>
-  <a href="https://github.com/obrenoco/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
