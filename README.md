@@ -81,6 +81,14 @@
       height="40"
     />
   </a>
+    <a href="https://jestjs.io" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
