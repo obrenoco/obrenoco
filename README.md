@@ -27,7 +27,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently looking for a position as **Front-End Developer**.
+- 👨‍💻 Currently working as a **Front-End Developer** for [StoneCo](https://github.com/stone-payments).
 - 🌱 Learning more about and studying: **React, React Native and JavaScript**.
 - 💙 Interests: arts 🎨, nature 🌱.
 
