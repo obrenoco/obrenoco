@@ -1,12 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
-
-<p align="center">
-  <a href="#">
-    <img align="center" width="350" src="https://media.giphy.com/media/d7IKIDx2UwRvlfZOOM/giphy.gif" />
-  </a>
-</p>
-
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there, I'm Breno! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
