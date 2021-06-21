@@ -3,8 +3,8 @@
 ### Abstract
 
 - 👨‍💻 Currently working as a **Front-End Developer** for [StoneCo](https://github.com/stone-payments).
-- 🌱 Learning more about and studying: **React, React Native and JavaScript**.
-- 💙 Interests: arts 🎨, nature 🌱.
+- 🌱 Learning more about and studying: **JavaScript, Typescript and React**.
+- 💙 Interests: art 🎨, nature 🌱.
 
 <img src="https://www.codewars.com/users/obrenoco/badges/micro" />
 <p align="left">
