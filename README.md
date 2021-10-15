@@ -6,7 +6,6 @@
 - 🌱 Learning more about and studying: **JavaScript, Typescript and React**.
 - 💙 Interests: art 🎨, nature 🌱.
 
-<img src="https://www.codewars.com/users/obrenoco/badges/micro" />
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
